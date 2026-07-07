@@ -1,0 +1,7 @@
+name = "pii-redactor"
+version = "0.1.0"
+description = "PII redactor"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
